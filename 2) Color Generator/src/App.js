@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import SingleColor from './SingleColor';
+import Footer from './Footer';
 import Values from 'values.js';
 
 function App() {
@@ -22,7 +23,7 @@ function App() {
 
   // JSX
   return (
-    <>
+    <main>
       <section className="container">
         <h3>color generator</h3>
         <form onSubmit={handleSubmit}>
@@ -50,7 +51,8 @@ function App() {
           );
         })}
       </section>
-    </>
+      <Footer />
+    </main>
   );
 }
 
