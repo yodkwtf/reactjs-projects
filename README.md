@@ -1,4 +1,4 @@
-# ReactJS Projects
+# ReactJs Projects
 
 It consists a collection of my reactjs projects. The projects didn't seem big enough for an individual repo so I combined them in a single repo.
 
