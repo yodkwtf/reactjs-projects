@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  display: grid;
+  grid-template-rows: auto 45vh 45vh;
+}
+
+.nav {
+  padding: 0.75rem 1rem;
+  background: rgb(30, 30, 30);
+  color: #e2e2e2;
+  letter-spacing: 2px;
+  font-family: sans-serif;
+  text-shadow: 1px 1px 1px #000;
+}
+
+.nav-center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+@media (min-width: 375px) {
+  .nav h3 {
+    font-size: 1.5rem;
+  }
+}
+
+.nav select {
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  text-transform: capitalize;
+}
+.nav select option {
+  text-transform: capitalize;
+}
+
+.top-half {
+  background: rgb(30, 30, 30);
+  display: flex;
+  padding: 0.5rem;
+  gap: 1rem;
+}
+
+.editor-container {
+  flex-grow: 1;
+  flex-basis: 0;
+  border-radius: 0.25rem;
+  display: grid;
+  grid-template-rows: auto 1fr;
+  background: rgb(30, 30, 30);
+}
+
+.closed {
+  flex-grow: 0;
+}
+
+.editor-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgb(20, 20, 20);
+  color: #e2e2e2;
+  padding: 0.5rem;
+  padding-left: 1rem;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+.editor-header button {
+  background: transparent;
+  color: whitesmoke;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.CodeMirror {
+  height: 100% !important;
+}
+
+.editor {
+  border-bottom-left-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+  overflow: hidden;
+}
