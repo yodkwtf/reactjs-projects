@@ -10,3 +10,4 @@ For more info regarding a specific project, navigate to that project's directory
 2. [Color Generator](https://colorgenerator-react-dk.netlify.app/)
 3. [Markdown Preview](https://markdownpreview-react-dk.netlify.app/)
 4. [CodeEditor-DK](https://codeeditor-react-dk.netlify.app/)
+5. [Photo Editor](https://photoeditor-react-dk.netlify.app/)
