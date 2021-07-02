@@ -9,7 +9,7 @@ A code editor built with reactjs that uses CodeMirror for UI and themes and look
 ## Tools
 
 - ReactJs
-  - Functional Componets
+  - Functional Components
   - useState
   - useEffect
   - Custom Hooks
