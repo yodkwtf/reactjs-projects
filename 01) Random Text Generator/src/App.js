@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import data from './data';
-import Footer from './footer';
+import Footer from './Footer';
 
 function App() {
   // setting up states

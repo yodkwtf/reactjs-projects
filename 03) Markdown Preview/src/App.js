@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import ReactMarkdown from 'react-markdown';
-import Footer from './footer';
+import Footer from './Footer';
 
 function App() {
   // setting up states

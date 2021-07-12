@@ -1,10 +1,10 @@
-# CodeEditor - DK
+# Code Editor
 
 A code editor built with reactjs that uses CodeMirror for UI and themes and looks like a codepen clone.
 
 ## Preview
 
-[CodeEditor-DK - Live](https://codeeditor-react-dk.netlify.app/)
+[Code Editor - Live](https://codeeditor-react-dk.netlify.app/)
 
 ## Tools
 
@@ -18,7 +18,7 @@ A code editor built with reactjs that uses CodeMirror for UI and themes and look
 - localStorage Browser API
 - CodeMirror Package
 
-## Acknowledgements
+## Resources & References
 
 - [CodeMirror npm Package](https://www.npmjs.com/package/codemirror)
 - [React Icons](https://react-icons.github.io/react-icons/)
