@@ -3,7 +3,7 @@ import InputField from './InputField';
 import { FaExchangeAlt } from 'react-icons/fa';
 import Footer from './Footer';
 
-const url = `https://v6.exchangerate-api.com/v6/${process.env.REACT_APP_SECRET_API_KEY}/latest/USD`;
+const url = `https://v6.exchangerate-api.com/v6/6cbbba97b763887effc4b36c/latest/USD`;
 
 function App() {
   //# states
