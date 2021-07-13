@@ -11,3 +11,4 @@ For more info regarding a specific project, navigate to that project's directory
 3. [Markdown Preview](https://markdownpreview-react-dk.netlify.app/)
 4. [CodeEditor-DK](https://codeeditor-react-dk.netlify.app/)
 5. [Photo Editor](https://photoeditor-react-dk.netlify.app/)
+6. [Currency Converter](https://currencyconverter-react-dk.netlify.app/)
