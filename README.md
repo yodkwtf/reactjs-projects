@@ -4,7 +4,7 @@ It consists a collection of my reactjs projects. The projects didn't seem big en
 
 For more info regarding a specific project, navigate to that project's directory and check out its readme file.
 
-### Here are the live previews:
+## Here are the live previews:
 
 1. [Random Text Generator](https://randomtextgenerator-react-dk.netlify.app/)
 2. [Color Generator](https://colorgenerator-react-dk.netlify.app/)
